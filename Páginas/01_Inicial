@@ -1,0 +1,10 @@
+import streamlit as st
+
+st.set_page_config(
+    page_title="Descartáveis Impecáveis",
+    page_icon="♻️",
+    layout="centered"
+)
+
+st.title("🚧 Em Construção!")
+st.image("Imagens/free_loading_animation.gif", use_column_width=True)
